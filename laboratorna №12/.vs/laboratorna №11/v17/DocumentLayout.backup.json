@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211612\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C47335EB-0A12-4985-8780-8D51C5127C51}|laboratorna \u211611\\laboratorna \u211611.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u043E\u043E\u043F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211612\\laboratorna \u211611\\mystring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47335EB-0A12-4985-8780-8D51C5127C51}|laboratorna \u211611\\laboratorna \u211611.csproj|solutionrelative:laboratorna \u211611\\mystring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47335EB-0A12-4985-8780-8D51C5127C51}|laboratorna \u211611\\laboratorna \u211611.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211612\\laboratorna \u211611\\complexnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47335EB-0A12-4985-8780-8D51C5127C51}|laboratorna \u211611\\laboratorna \u211611.csproj|solutionrelative:laboratorna \u211611\\complexnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47335EB-0A12-4985-8780-8D51C5127C51}|laboratorna \u211611\\laboratorna \u211611.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211612\\laboratorna \u211611\\imyinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47335EB-0A12-4985-8780-8D51C5127C51}|laboratorna \u211611\\laboratorna \u211611.csproj|solutionrelative:laboratorna \u211611\\imyinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47335EB-0A12-4985-8780-8D51C5127C51}|laboratorna \u211611\\laboratorna \u211611.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u043E\u043E\u043F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211612\\laboratorna \u211611\\resultlab11form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47335EB-0A12-4985-8780-8D51C5127C51}|laboratorna \u211611\\laboratorna \u211611.csproj|solutionrelative:laboratorna \u211611\\resultlab11form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47335EB-0A12-4985-8780-8D51C5127C51}|laboratorna \u211611\\laboratorna \u211611.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211612\\laboratorna \u211611\\resultlab11form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C47335EB-0A12-4985-8780-8D51C5127C51}|laboratorna \u211611\\laboratorna \u211611.csproj|solutionrelative:laboratorna \u211611\\resultlab11form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47335EB-0A12-4985-8780-8D51C5127C51}|laboratorna \u211611\\laboratorna \u211611.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211612\\laboratorna \u211611\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C47335EB-0A12-4985-8780-8D51C5127C51}|laboratorna \u211611\\laboratorna \u211611.csproj|solutionrelative:laboratorna \u211611\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47335EB-0A12-4985-8780-8D51C5127C51}|laboratorna \u211611\\laboratorna \u211611.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211612\\laboratorna \u211611\\createobjectmystring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C47335EB-0A12-4985-8780-8D51C5127C51}|laboratorna \u211611\\laboratorna \u211611.csproj|solutionrelative:laboratorna \u211611\\createobjectmystring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "myString.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211612\\laboratorna \u211611\\myString.cs",
+              "RelativeDocumentMoniker": "laboratorna \u211611\\myString.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211612\\laboratorna \u211611\\myString.cs*",
+              "RelativeToolTip": "laboratorna \u211611\\myString.cs*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswEkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:31:23.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComplexNumber.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211612\\laboratorna \u211611\\ComplexNumber.cs",
+              "RelativeDocumentMoniker": "laboratorna \u211611\\ComplexNumber.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211612\\laboratorna \u211611\\ComplexNumber.cs",
+              "RelativeToolTip": "laboratorna \u211611\\ComplexNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:12:49.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "resultLab11Form.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211612\\laboratorna \u211611\\resultLab11Form.cs",
+              "RelativeDocumentMoniker": "laboratorna \u211611\\resultLab11Form.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211612\\laboratorna \u211611\\resultLab11Form.cs",
+              "RelativeToolTip": "laboratorna \u211611\\resultLab11Form.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:45:02.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "resultLab11Form.cs [Design]",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211612\\laboratorna \u211611\\resultLab11Form.cs",
+              "RelativeDocumentMoniker": "laboratorna \u211611\\resultLab11Form.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211612\\laboratorna \u211611\\resultLab11Form.cs [Design]",
+              "RelativeToolTip": "laboratorna \u211611\\resultLab11Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:40:34.182Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateObjectMyString.cs [Design]",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211612\\laboratorna \u211611\\CreateObjectMyString.cs",
+              "RelativeDocumentMoniker": "laboratorna \u211611\\CreateObjectMyString.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211612\\laboratorna \u211611\\CreateObjectMyString.cs [Design]",
+              "RelativeToolTip": "laboratorna \u211611\\CreateObjectMyString.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:39:25.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMyInterface.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211612\\laboratorna \u211611\\IMyInterface.cs",
+              "RelativeDocumentMoniker": "laboratorna \u211611\\IMyInterface.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211612\\laboratorna \u211611\\IMyInterface.cs",
+              "RelativeToolTip": "laboratorna \u211611\\IMyInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:52:14.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211612\\laboratorna \u211611\\Form1.cs",
+              "RelativeDocumentMoniker": "laboratorna \u211611\\Form1.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211612\\laboratorna \u211611\\Form1.cs [Design]",
+              "RelativeToolTip": "laboratorna \u211611\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:54:34.034Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

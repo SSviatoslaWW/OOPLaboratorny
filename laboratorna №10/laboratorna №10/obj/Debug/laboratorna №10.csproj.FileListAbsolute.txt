@@ -1,0 +1,7 @@
+C:\Практичні роботи\ООП\2 семестр\laboratorna №10\laboratorna №10\bin\Debug\laboratorna №10.exe.config
+C:\Практичні роботи\ООП\2 семестр\laboratorna №10\laboratorna №10\bin\Debug\laboratorna №10.exe
+C:\Практичні роботи\ООП\2 семестр\laboratorna №10\laboratorna №10\bin\Debug\laboratorna №10.pdb
+C:\Практичні роботи\ООП\2 семестр\laboratorna №10\laboratorna №10\obj\Debug\laboratorna №10.csproj.AssemblyReference.cache
+C:\Практичні роботи\ООП\2 семестр\laboratorna №10\laboratorna №10\obj\Debug\laboratorna №10.csproj.CoreCompileInputs.cache
+C:\Практичні роботи\ООП\2 семестр\laboratorna №10\laboratorna №10\obj\Debug\laboratorna №10.exe
+C:\Практичні роботи\ООП\2 семестр\laboratorna №10\laboratorna №10\obj\Debug\laboratorna №10.pdb

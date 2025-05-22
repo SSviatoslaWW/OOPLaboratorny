@@ -1,0 +1,51 @@
+C:\Практичні роботи\ООП\2 семестр\laboratorna №11\laboratorna №11\bin\Debug\laboratorna №11.exe.config
+C:\Практичні роботи\ООП\2 семестр\laboratorna №11\laboratorna №11\bin\Debug\laboratorna №11.exe
+C:\Практичні роботи\ООП\2 семестр\laboratorna №11\laboratorna №11\bin\Debug\laboratorna №11.pdb
+C:\Практичні роботи\ООП\2 семестр\laboratorna №11\laboratorna №11\obj\Debug\laboratorna №11.csproj.AssemblyReference.cache
+C:\Практичні роботи\ООП\2 семестр\laboratorna №11\laboratorna №11\obj\Debug\laboratorna__11.CreateObjectMyString.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №11\laboratorna №11\obj\Debug\laboratorna__11.mainForm.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №11\laboratorna №11\obj\Debug\laboratorna__11.Properties.Resources.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №11\laboratorna №11\obj\Debug\laboratorna №11.csproj.GenerateResource.cache
+C:\Практичні роботи\ООП\2 семестр\laboratorna №11\laboratorna №11\obj\Debug\laboratorna №11.csproj.CoreCompileInputs.cache
+C:\Практичні роботи\ООП\2 семестр\laboratorna №11\laboratorna №11\obj\Debug\laboratorna №11.exe
+C:\Практичні роботи\ООП\2 семестр\laboratorna №11\laboratorna №11\obj\Debug\laboratorna №11.pdb
+C:\Практичні роботи\ООП\2 семестр\laboratorna №11\laboratorna №11\obj\Debug\laboratorna__11.EqualsForm.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №11\laboratorna №11\obj\Debug\laboratorna__11.PlusNumberForm.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №11\laboratorna №11\obj\Debug\laboratorna__11.MinusNumberForm.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №11\laboratorna №11\obj\Debug\laboratorna__11.MultiplicationForm.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №11\laboratorna №11\obj\Debug\laboratorna__11.DivindingForm.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №12\laboratorna №11\bin\Debug\laboratorna №11.exe.config
+C:\Практичні роботи\ООП\2 семестр\laboratorna №12\laboratorna №11\bin\Debug\laboratorna №11.exe
+C:\Практичні роботи\ООП\2 семестр\laboratorna №12\laboratorna №11\bin\Debug\laboratorna №11.pdb
+C:\Практичні роботи\ООП\2 семестр\laboratorna №12\laboratorna №11\obj\Debug\laboratorna №11.csproj.AssemblyReference.cache
+C:\Практичні роботи\ООП\2 семестр\laboratorna №12\laboratorna №11\obj\Debug\laboratorna__11.CreateObjectMyString.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №12\laboratorna №11\obj\Debug\laboratorna__11.DivindingForm.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №12\laboratorna №11\obj\Debug\laboratorna__11.EqualsForm.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №12\laboratorna №11\obj\Debug\laboratorna__11.mainForm.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №12\laboratorna №11\obj\Debug\laboratorna__11.MinusNumberForm.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №12\laboratorna №11\obj\Debug\laboratorna__11.MultiplicationForm.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №12\laboratorna №11\obj\Debug\laboratorna__11.PlusNumberForm.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №12\laboratorna №11\obj\Debug\laboratorna__11.Properties.Resources.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №12\laboratorna №11\obj\Debug\laboratorna №11.csproj.GenerateResource.cache
+C:\Практичні роботи\ООП\2 семестр\laboratorna №12\laboratorna №11\obj\Debug\laboratorna №11.csproj.CoreCompileInputs.cache
+C:\Практичні роботи\ООП\2 семестр\laboratorna №12\laboratorna №11\obj\Debug\laboratorna №11.exe
+C:\Практичні роботи\ООП\2 семестр\laboratorna №12\laboratorna №11\obj\Debug\laboratorna №11.pdb
+C:\Практичні роботи\ООП\2 семестр\laboratorna №12\laboratorna №11\obj\Debug\laboratorna__11.resultLab11Form.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №13\laboratorna №11\bin\Debug\laboratorna №11.exe.config
+C:\Практичні роботи\ООП\2 семестр\laboratorna №13\laboratorna №11\bin\Debug\laboratorna №11.exe
+C:\Практичні роботи\ООП\2 семестр\laboratorna №13\laboratorna №11\bin\Debug\laboratorna №11.pdb
+C:\Практичні роботи\ООП\2 семестр\laboratorna №13\laboratorna №11\obj\Debug\laboratorna №11.csproj.AssemblyReference.cache
+C:\Практичні роботи\ООП\2 семестр\laboratorna №13\laboratorna №11\obj\Debug\laboratorna__11.CreateObjectMyString.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №13\laboratorna №11\obj\Debug\laboratorna__11.DivindingForm.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №13\laboratorna №11\obj\Debug\laboratorna__11.EqualsForm.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №13\laboratorna №11\obj\Debug\laboratorna__11.mainForm.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №13\laboratorna №11\obj\Debug\laboratorna__11.MinusNumberForm.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №13\laboratorna №11\obj\Debug\laboratorna__11.MultiplicationForm.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №13\laboratorna №11\obj\Debug\laboratorna__11.PlusNumberForm.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №13\laboratorna №11\obj\Debug\laboratorna__11.Properties.Resources.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №13\laboratorna №11\obj\Debug\laboratorna__11.resultLab13.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №13\laboratorna №11\obj\Debug\laboratorna №11.csproj.GenerateResource.cache
+C:\Практичні роботи\ООП\2 семестр\laboratorna №13\laboratorna №11\obj\Debug\laboratorna №11.csproj.CoreCompileInputs.cache
+C:\Практичні роботи\ООП\2 семестр\laboratorna №13\laboratorna №11\obj\Debug\laboratorna №11.exe
+C:\Практичні роботи\ООП\2 семестр\laboratorna №13\laboratorna №11\obj\Debug\laboratorna №11.pdb
+C:\Практичні роботи\ООП\2 семестр\laboratorna №13\laboratorna №11\obj\Debug\laboratorna__11.resultLab12Form.resources

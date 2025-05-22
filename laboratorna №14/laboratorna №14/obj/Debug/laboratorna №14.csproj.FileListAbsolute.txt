@@ -1,0 +1,10 @@
+C:\Практичні роботи\ООП\2 семестр\laboratorna №14\laboratorna №14\bin\Debug\laboratorna №14.exe.config
+C:\Практичні роботи\ООП\2 семестр\laboratorna №14\laboratorna №14\bin\Debug\laboratorna №14.exe
+C:\Практичні роботи\ООП\2 семестр\laboratorna №14\laboratorna №14\bin\Debug\laboratorna №14.pdb
+C:\Практичні роботи\ООП\2 семестр\laboratorna №14\laboratorna №14\obj\Debug\laboratorna №14.csproj.AssemblyReference.cache
+C:\Практичні роботи\ООП\2 семестр\laboratorna №14\laboratorna №14\obj\Debug\laboratorna__14.mainMenu.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №14\laboratorna №14\obj\Debug\laboratorna__14.Properties.Resources.resources
+C:\Практичні роботи\ООП\2 семестр\laboratorna №14\laboratorna №14\obj\Debug\laboratorna №14.csproj.GenerateResource.cache
+C:\Практичні роботи\ООП\2 семестр\laboratorna №14\laboratorna №14\obj\Debug\laboratorna №14.csproj.CoreCompileInputs.cache
+C:\Практичні роботи\ООП\2 семестр\laboratorna №14\laboratorna №14\obj\Debug\laboratorna №14.exe
+C:\Практичні роботи\ООП\2 семестр\laboratorna №14\laboratorna №14\obj\Debug\laboratorna №14.pdb

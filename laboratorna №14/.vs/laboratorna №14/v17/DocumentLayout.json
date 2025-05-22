@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211614\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC2C3F5-1E3D-4102-9B8D-4E762002A454}|laboratorna \u211614\\laboratorna \u211614.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u043E\u043E\u043F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211614\\laboratorna \u211614\\guestbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC2C3F5-1E3D-4102-9B8D-4E762002A454}|laboratorna \u211614\\laboratorna \u211614.csproj|solutionrelative:laboratorna \u211614\\guestbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC2C3F5-1E3D-4102-9B8D-4E762002A454}|laboratorna \u211614\\laboratorna \u211614.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211614\\laboratorna \u211614\\guestrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC2C3F5-1E3D-4102-9B8D-4E762002A454}|laboratorna \u211614\\laboratorna \u211614.csproj|solutionrelative:laboratorna \u211614\\guestrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC2C3F5-1E3D-4102-9B8D-4E762002A454}|laboratorna \u211614\\laboratorna \u211614.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211614\\laboratorna \u211614\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC2C3F5-1E3D-4102-9B8D-4E762002A454}|laboratorna \u211614\\laboratorna \u211614.csproj|solutionrelative:laboratorna \u211614\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211614\\laboratorna \u211614\\Form1.cs",
+              "RelativeDocumentMoniker": "laboratorna \u211614\\Form1.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211614\\laboratorna \u211614\\Form1.cs",
+              "RelativeToolTip": "laboratorna \u211614\\Form1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwCAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:46:15.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GuestBook.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211614\\laboratorna \u211614\\GuestBook.cs",
+              "RelativeDocumentMoniker": "laboratorna \u211614\\GuestBook.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211614\\laboratorna \u211614\\GuestBook.cs",
+              "RelativeToolTip": "laboratorna \u211614\\GuestBook.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:08:33.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GuestRecord.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211614\\laboratorna \u211614\\GuestRecord.cs",
+              "RelativeDocumentMoniker": "laboratorna \u211614\\GuestRecord.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratorna \u211614\\laboratorna \u211614\\GuestRecord.cs",
+              "RelativeToolTip": "laboratorna \u211614\\GuestRecord.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwFwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:39:47.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
