@@ -1,0 +1,8 @@
+﻿  lab№8_2.cpp
+C:\Практичні роботи\ООП\laboratorna №8\lab№8_2\lab№8_2\lab№8_2.cpp(33,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Практичні роботи\ООП\laboratorna №8\lab№8_2\lab№8_2\lab№8_2.cpp(51,5): error C2672: 'find_if': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(6467,31):
+      could be '_InIt std::find_if(_InIt,const _InIt,_Pr)'
+          C:\Практичні роботи\ООП\laboratorna №8\lab№8_2\lab№8_2\lab№8_2.cpp(51,5):
+          '_InIt std::find_if(_InIt,const _InIt,_Pr)': could not deduce template argument for '_Pr'
+  
